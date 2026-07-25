@@ -32,7 +32,7 @@ The component draws the MK2's layout as a 9 × 9 grid, filling the panel edge to
  ├───┼───┼───┼───┼───┼───┼───┼───┼───┤
  │   │   │   │   │   │   │   │   │ ● │
  │   │   │   │   │   │   │   │   │ ● │
- │   │   │     8 × 8 pads      │   │ ● │  ← right column
+ │   │   │    8 × 8 pads     │   │ ● │  ← right column
  │   │   │   │   │   │   │   │   │ ● │
  └───┴───┴───┴───┴───┴───┴───┴───┴───┘
 ```
