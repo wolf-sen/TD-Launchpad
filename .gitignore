@@ -1,0 +1,4 @@
+.DS_Store
+*.tox.dir/
+*.tox.toc
+*.bkp*
