@@ -52,6 +52,7 @@ On the component's **PRESETS** page:
 |---|---|
 | **Presets** | Which page (1–4) is active. Also driven by the hardware arrow keys. |
 | **Brightness** | Global LED brightness, 0–1. Scales every colour sent to the device. |
+| **Last Channel** | Read-only readout: the name of the last output channel to go on, e.g. `1_v47`. Press a pad, read the name, paste it wherever you are routing the output. |
 
 ---
 
